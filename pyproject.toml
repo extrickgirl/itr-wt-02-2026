@@ -1,0 +1,6 @@
+[project]
+name = "itr-wt-02-2026"
+description = "Информационно-технологические решения на базе web-технологий"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = []
