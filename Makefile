@@ -29,3 +29,6 @@ exec:
 pull:
 	docker compose pull
 
+
+shell: ## открыть консоль работающего контейнера
+	docker compose exec app bash
